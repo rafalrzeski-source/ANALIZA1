@@ -1,0 +1,1 @@
+SportLab 4.0: podmień app.py i requirements.txt w repozytorium GitHub. Streamlit automatycznie wdroży zmiany. Czat oparty na danych i parserze, bez płatnego AI. Nie wszystkie rynki mają dostępne statystyki.
